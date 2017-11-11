@@ -40,12 +40,27 @@ It worked out pretty great! I was really pleased with the output. With a still i
 Output
 ------
 
-vid goes here
+And here is the result:
+
+
+<section class="hero is-dark">
+ <div class="hero-body">
+  <div class="container has-text-centered">
+   <iframe src="https://player.vimeo.com/video/242401422" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+   <p><a href="https://vimeo.com/242401422">Kaleidospace</a> from <a href="https://vimeo.com/natronics">Nathan Bergey</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  </div>
+ </div>
+</section>
+
+
+------------------------------------------------------------
+
+
 
 You can download the basic blender file I made here:
 
- - [blend]()
+ - <https://github.com/natronics/kaleidospace/raw/master/kaleidospace.blend>
 
 This article and blender files are all in a git repository. You can clone the entire thing:
 
- - [github]()
+ - <https://github.com/natronics/kaleidospace/>

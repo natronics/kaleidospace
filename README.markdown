@@ -12,10 +12,10 @@ I downloaded one of the recent really nice time-lapses from <https://eol.jsc.nas
 
 It worked out pretty great! I was really pleased with the output. With a still image it was really boring of course since nothing moved. I knew a video would be better, but I still wanted to add some extra movement to the final result. So I used the animation keyframes in Blender to set the kaleidoscope to slowly rotate. This should make the alignment of the kaleidoscope effect slowly shift even as the video plays underneath it. I also added a couple compositing effects so the output isn't perfect (barrel distortion and some dispersion).
 
-Output
+Video:
 ------
 
-vid goes here
+<https://vimeo.com/242401422>
 
 
 Working with Blender
