@@ -46,20 +46,44 @@ And here is the result:
 <section class="hero is-dark">
  <div class="hero-body">
   <div class="container has-text-centered">
-   <iframe src="https://player.vimeo.com/video/242401422" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+   <iframe src="https://player.vimeo.com/video/242401422?color=ff0179&byline=0&portrait=0" width="760" height="428" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
    <p><a href="https://vimeo.com/242401422">Kaleidospace</a> from <a href="https://vimeo.com/natronics">Nathan Bergey</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   </div>
  </div>
 </section>
 
 
-------------------------------------------------------------
+------------------------------------------------------------------------------
 
 
+Hall Of Mirrors
+---------------
+
+Now that we have a technique, what else can we do? I wondered what other mirror shapes would look like. I made a regular seven-sided polygon as the mirror component and re-rendered. I ended up with a very pleasing "hall of mirrors" kind of look:
+
+<img class="img-responsive" src="images/hall_of_mirrors_still.jpeg" alt="Hall of mirrors effect from a seven sided kaleidoscope">
+
+
+Here is the full clip rendered:
+
+<section class="hero is-dark">
+ <div class="hero-body">
+  <div class="container has-text-centered">
+   <iframe src="https://player.vimeo.com/video/242451678?loop=1&color=ff0179&byline=0&portrait=0" width="760" height="428" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+   <p><a href="https://vimeo.com/242451678">Kaleidospace: Hall Of Mirrors</a> from <a href="https://vimeo.com/natronics">Nathan Bergey</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  </div>
+ </div>
+</section>
+
+------------------------------------------------------------------------------
 
 You can download the basic blender file I made here:
 
  - <https://github.com/natronics/kaleidospace/raw/master/kaleidospace.blend>
+
+And the hall of mirrors blender file:
+
+ - <https://github.com/natronics/kaleidospace/raw/master/7gon.blend>
 
 This article and blender files are all in a git repository. You can clone the entire thing:
 
